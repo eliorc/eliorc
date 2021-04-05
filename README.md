@@ -1,4 +1,10 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=eliorc&theme=gruvbox" width="400" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bluesummers/" />
+  <img src="https://img.shields.io/stackexchange/stackoverflow/r/5368083?logo=StackOverflow&color=important&label=StackOverflow&link=https://stackoverflow.com/users/5368083/bluesummers" />
+  <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&link=https://medium.com/@eliorcohen" />
+</p>
 
 <!--
 **eliorc/eliorc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
