@@ -6,6 +6,11 @@
   <a href="https://medium.com/@eliorcohen"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" /></a>
 </p>
 
+
+<p align="center">
+  <a href="https://www.credly.com/badges/a670b079-7a9a-466d-b185-11f5e459597c/public_url"><img src="https://images.credly.com/size/110x110/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" /></a>
+</p>
+
 <!--
 **eliorc/eliorc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
