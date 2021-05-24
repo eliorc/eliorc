@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=eliorc&theme=gruvbox" width="400" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=eliorc&theme=gruvbox&count_private=true" width="400" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bluesummers/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
