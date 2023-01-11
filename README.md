@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://www.credly.com/badges/a670b079-7a9a-466d-b185-11f5e459597c/public_url"><img src="https://images.credly.com/size/110x110/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" /></a>
+  <a href="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" /></a>
 </p>
 
 <!--
